@@ -17,5 +17,7 @@ a Software Engineering student at UPC. I'm passionate about creating efficient a
 </p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JeanAchamizo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<p align="center">
+![](https://github-contributor-stats.vercel.app/api?username=JeanAchamizo&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</p>
