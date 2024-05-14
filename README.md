@@ -1,5 +1,5 @@
 
-## Hi there 👋! I'm Jean Achamizo 😸,
+## Hi there 👋! I'm Jean Achamizo,
 a Software Engineering student at UPC ✨. I'm passionate about creating efficient and scalable backend solutions⚡. I love problem-solving and am always eager to learn. I'm looking forward to collaborating on innovative projects with dynamic teams.
 
 # 💻 Tech Stack:
