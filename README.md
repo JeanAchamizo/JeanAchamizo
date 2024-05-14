@@ -16,8 +16,3 @@ a Software Engineering student at UPC. I'm passionate about creating efficient a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanAchamizo&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </p>
 
-### 🔝 Top Contributed Repo
-
-<p align="center">
-![](https://github-contributor-stats.vercel.app/api?username=JeanAchamizo&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</p>
