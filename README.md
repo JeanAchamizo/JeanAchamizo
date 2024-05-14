@@ -9,10 +9,13 @@ a Software Engineering student at UPC. I'm passionate about creating efficient a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jean-achamizo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sorlac07)  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/charlieozimainamau/) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sorlac07&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sorlac07&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sorlac07&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JeanAchamizo&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeanAchamizo&theme=dark&hide_border=true" alt="GitHub Streak"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanAchamizo&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+</p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sorlac07&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=JeanAchamizo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
