@@ -11,7 +11,6 @@ a Software Engineering student at UPC ✨. I'm passionate about creating efficie
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeanAchamizo&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeanAchamizo&theme=dark&hide_border=true" alt="GitHub Streak"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanAchamizo&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </p>
